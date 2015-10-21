@@ -12,17 +12,29 @@ header {
 	/*border-bottom:1px solid black;	*/
 	}
 	
+#gcet_img {
+	width: 400px;
+	height:100%;
+	float: left;
+	}
+
 #gcet {
-	padding-left:150px;
-	float:left;
+	padding-left: 80px;
+}
+
+#iste_img {
+	
+	width:400px;
+	height:100%;
+	float:right;
 	}
 
 #iste {
-	padding-right:150px;
-	float:right;
-	width:94px;
-	height:94px;
-	}
+	width: 95px;
+	height: 95px;
+	float: right;
+	padding-right: 80px;
+}
 	
 nav {
 	width:100%;
